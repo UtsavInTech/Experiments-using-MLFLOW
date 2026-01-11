@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1fdcbdceef1a49c6b661e1e30e525192/artifacts
+end_time: 1766902974164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fdcbdceef1a49c6b661e1e30e525192
+run_name: wise-grub-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766902974145
+status: 3
+tags: []
+user_id: utsavsingh

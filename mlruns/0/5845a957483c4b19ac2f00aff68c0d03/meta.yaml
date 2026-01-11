@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5845a957483c4b19ac2f00aff68c0d03/artifacts
+end_time: 1766903310820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5845a957483c4b19ac2f00aff68c0d03
+run_name: unleashed-croc-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766903310799
+status: 3
+tags: []
+user_id: utsavsingh

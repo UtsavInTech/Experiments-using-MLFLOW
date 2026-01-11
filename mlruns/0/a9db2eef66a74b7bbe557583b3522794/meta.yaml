@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a9db2eef66a74b7bbe557583b3522794/artifacts
+end_time: 1766904742784
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9db2eef66a74b7bbe557583b3522794
+run_name: placid-asp-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766904742284
+status: 3
+tags: []
+user_id: utsavsingh

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f29fb8bdf4f942a1bbaa11cc4418e53d/artifacts
+end_time: 1766905473285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f29fb8bdf4f942a1bbaa11cc4418e53d
+run_name: auspicious-kit-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766905472906
+status: 3
+tags: []
+user_id: utsavsingh

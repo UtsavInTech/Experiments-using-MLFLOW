@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/891479538698720622/abc543cea4b447a6947ed7a3c48417e6/artifacts
+end_time: 1766907202689
+entry_point_name: ''
+experiment_id: '891479538698720622'
+lifecycle_stage: active
+run_id: abc543cea4b447a6947ed7a3c48417e6
+run_name: trusting-yak-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766907199964
+status: 3
+tags: []
+user_id: utsavsingh

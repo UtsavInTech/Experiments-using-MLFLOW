@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ec2e92e57ff94f74a143109f79c91084/artifacts
+end_time: 1766903046474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec2e92e57ff94f74a143109f79c91084
+run_name: omniscient-snail-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766903046455
+status: 3
+tags: []
+user_id: utsavsingh

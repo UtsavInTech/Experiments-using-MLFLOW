@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/891479538698720622/6fc05d1a66da4934815e1c58083fb45b/artifacts
+end_time: 1768108521385
+entry_point_name: ''
+experiment_id: '891479538698720622'
+lifecycle_stage: active
+run_id: 6fc05d1a66da4934815e1c58083fb45b
+run_name: stately-vole-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768108518250
+status: 3
+tags: []
+user_id: utsavsingh
